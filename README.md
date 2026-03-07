@@ -113,9 +113,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdarshGzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdarshGzz/AdarshGzz/output/github-contribution-grid-snake.svg" alt="Adarsh's Contribution Snake Animation" width="100%"/>
@@ -125,7 +123,6 @@
   <img src="https://komarev.com/ghpvc/?username=AdarshGzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Adarsh's Profile Views"/>
 </p>
 
----
 
 <!-- ============================================================ -->
 <!--                        FOOTER                               -->
