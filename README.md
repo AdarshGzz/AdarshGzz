@@ -130,24 +130,6 @@
   <img src="https://raw.githubusercontent.com/AdarshGzz/AdarshGzz/output/github-contribution-grid-snake.svg" alt="Adarsh's Contribution Snake Animation" width="100%"/>
 </p>
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<!-- GitHub Profile Trophy widget will go here -->
-
----
-
-## ✍️ Dev Quote
-
-<!-- Random Dev Quote widget will go here -->
-
----
-
-## � Profile Visitors
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdarshGzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Adarsh's Profile Views"/>
 </p>
