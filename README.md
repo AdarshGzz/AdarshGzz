@@ -124,7 +124,11 @@
   <img src="https://raw.githubusercontent.com/AdarshGzz/AdarshGzz/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Adarsh's 3D Contribution Graph" width="100%"/>
 </p>
 
-<!-- Snake Animation will go here -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdarshGzz/AdarshGzz/output/github-contribution-grid-snake.svg" alt="Adarsh's Contribution Snake Animation" width="100%"/>
+</p>
 
 
 
