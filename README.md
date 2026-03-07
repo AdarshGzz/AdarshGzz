@@ -115,12 +115,6 @@
 
 ---
 
-## � 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdarshGzz/AdarshGzz/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Adarsh's 3D Contribution Graph" width="100%"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
