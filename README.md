@@ -34,7 +34,6 @@
 
 ---
 
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/adarsh930" target="_blank">
@@ -94,9 +93,12 @@
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
-**Testing**
+### 🧪 Testing
 
-<!-- Testing badges: Playwright, Selenium -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</p>
 
 ---
 
