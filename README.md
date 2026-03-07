@@ -146,9 +146,11 @@
 
 ---
 
-## 👁️ Visitor Counter
+## � Profile Visitors
 
-<!-- Visitor counter badge will go here -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdarshGzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Adarsh's Profile Views"/>
+</p>
 
 ---
 
@@ -157,7 +159,5 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <i>💡 "Turning complex problems into simple, fast, and intuitive experiences — one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Animated Footer Banner" width="100%"/>
 </p>
-
-<!-- Crafted with ❤️ by Adarsh -->
