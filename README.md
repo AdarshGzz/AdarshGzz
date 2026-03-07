@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=54&fontAlignY=40&desc=React%20and%20Next.js%20Developer&descSize=22&descAlignY=62&animation=fadeIn&v=2" alt="Adarsh Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=54&fontAlignY=40&animation=fadeIn&v=3" alt="Adarsh Header Banner" width="100%"/>
 </p>
 
 ---
