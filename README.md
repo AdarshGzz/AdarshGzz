@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=55&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Engineer&descSize=22&descAlign=50&descAlignY=62&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=fadeIn" alt="Adarsh Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=54&fontAlignY=40&desc=React%20%26%20Next.js%20Developer&descSize=22&descAlignY=62&animation=fadeIn&v=2" alt="Adarsh Header Banner" width="100%"/>
 </p>
 
 ---
@@ -141,5 +141,5 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Animated Footer Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn&v=2" alt="Animated Footer Banner" width="100%"/>
 </p>
