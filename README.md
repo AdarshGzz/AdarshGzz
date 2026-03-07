@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20👋%20I'm%20Adarsh&fontSize=55&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Engineer&descSize=22&descAlign=50&descAlignY=62&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=fadeIn" alt="Adarsh — Animated Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=55&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Engineer&descSize=22&descAlign=50&descAlignY=62&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=fadeIn" alt="Adarsh Header Banner" width="100%"/>
 </p>
 
 ---
@@ -105,15 +105,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshGzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" width="60%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdarshGzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdarshGzz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Adarsh's GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=AdarshGzz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshGzz&layout=compact&theme=tokyonight&hide_border=true" alt="Adarsh's Top Languages" width="45%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdarshGzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
 </p>
 
 ---
