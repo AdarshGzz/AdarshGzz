@@ -6,7 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Adarsh&fontSize=54&fontAlignY=40&animation=fadeIn&v=3" alt="Adarsh Header Banner" width="100%"/>
 </p>
 
----
 
 <!-- ============================================================ -->
 <!--                  TYPING ANIMATION SECTION                   -->
@@ -16,7 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Next.js+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing Animation"/>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
