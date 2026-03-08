@@ -26,7 +26,9 @@
 
 - 💬 **Ask me about** — React · Next.js · MERN Stack · Frontend Architecture · API Design
 
-- 📄 **Resume** — [View here](https://drive.google.com/file/d/1r4Y8mnB7sxhzfz2I_UgcHabckbaSIHei/view?usp=sharing)
+- 📄 **Resume** — [View here](https://drive.google.com/file/d/1yso22zJ3DM-JS0KfDCGwtbf7vjqe3LVO/view)
+
+- 📄 **Website** — [View here](https://folio-theta-ten.vercel.app)
 
 - 📫 **Reach me** — [itsadarshofficial1@gmail.com](mailto:itsadarshofficial1@gmail.com)
 
